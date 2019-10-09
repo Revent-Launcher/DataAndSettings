@@ -47,5 +47,28 @@
             "• И тут тоже уникальность обновы",
             "• И проследний раз"
         ]
-    }
+    },
+    "news": [
+        {
+            "name": "Самое глобальное обновление<br> на нашем сервере",
+            "date": "01.12.2018",
+            "url": "https://vk.com",
+            "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+            "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+        },
+        {
+            "name": "Самое глобальное обновление<br> на нашем сервере",
+            "date": "01.12.2018",
+            "url": "https://vk.com",
+            "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+            "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+        },
+        {
+            "name": "Самое глобальное обновление<br> на нашем сервере",
+            "date": "01.12.2018",
+            "url": "https://vk.com",
+            "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+            "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+        }
+    ]
 }
