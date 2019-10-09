@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+            "name": "Revent role play",
+            "subname": "Justice",
+            "players": {
+                "type": "1",
+                "maxplayers": "999",
+                "url_api": "https://api.samp-sc.com/cache/graph_groups.json",
+                "group_id": "7"
+            }
+        }
+    ]
+}
