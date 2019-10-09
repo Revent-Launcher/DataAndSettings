@@ -39,6 +39,7 @@
         }
     ],
     "super_news": {
+        "show": true,
         "title": "Неповторимое обновление",
         "subtitle": "Уже на сервере",
         "items": [
