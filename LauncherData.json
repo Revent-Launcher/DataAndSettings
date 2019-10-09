@@ -10,5 +10,42 @@
                 "group_id": "7"
             }
         }
-    ]
+    ],
+    "links_header": [
+        {
+            "icon": "global",
+            "name": "Наш сайт",
+            "url": "https://vk.com"
+        },
+        {
+            "icon": "forum",
+            "name": "Форум",
+            "url": "https://vk.com"
+        },
+        {
+            "icon": "shop",
+            "name": "Форум",
+            "url": "https://vk.com"
+        }
+    ],
+    "links_soc": [
+        {
+            "icon": "vk",
+            "url": "https://vk.com"
+        },
+        {
+            "icon": "youtube",
+            "url": "https://vk.com"
+        }
+    ],
+    "super_news": {
+        "title": "Неповторимое обновление",
+        "subtitle": "Уже на сервере",
+        "items": [
+            "• Название уникальностии обновы",
+            "• Еще одна уникальность",
+            "• И тут тоже уникальность обновы",
+            "• И проследний раз",
+        ]
+    }
 }
