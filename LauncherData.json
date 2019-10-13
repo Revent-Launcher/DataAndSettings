@@ -77,7 +77,7 @@
         "username_regxp": "/^[a-zA-Z0-9 _-а-яА-Я]{4,16}$/i"
     },
     "self": {
-        "hash": "c60a647ea9bdc58173a9ba19f7fd4296",
+        "hash": "850498800702c2634d3b0d0567bafbcf",
         "url": "https://raw.githubusercontent.com/Revent-Launcher/DataAndSettings/master/app.asar"
     }
 }
