@@ -78,7 +78,7 @@
     },
     "self": {
         "hash": "004cf76f8f8dfa3def471d8702756eed",
-        "url": "https://raw.githubusercontent.com/Revent-Launcher/DataAndSettings/master/app.asar"
+        "url": "http://cdn.alkad.org/webseed/forify/app.asar"
     },
     "Game": {
         "torrentUrl": "http://cdn.alkad.org/webseed/forify/FORTIFY.torrent",
