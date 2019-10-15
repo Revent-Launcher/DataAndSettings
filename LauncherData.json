@@ -82,7 +82,6 @@
     },
     "Game": {
         "torrentUrl": "http://cdn.alkad.org/webseed/forify/FORTIFY.torrent",
-        "gameFolder": "FORTIFY",
-        "hashListUrl": "http://cdn.alkad.org/webseed/forify/hashlist.md5"
+        "gameFolder": "FORTIFY"
     }
 }
